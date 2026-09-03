@@ -46,7 +46,7 @@ export default function Intro({ onAccess }) {
         transition={{ duration: DURATION, ease: "easeOut", delay: 0.5 }}
       >
         <GlobeIcon />
-        <span className="break-all text-sm md:text-3xl">www.xxxxx-x-xxxxx.github.io</span>
+        <span className="break-all text-sm md:text-3xl">0xR1c4rd.github.io/portfolio-cybersecurity</span>
       </motion.div>
 
       {/* BOUTON */}

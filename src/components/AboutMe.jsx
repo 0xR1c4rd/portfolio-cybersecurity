@@ -68,7 +68,7 @@ export default function AboutMe() {
           {/* Boutons */}
           <div className="flex gap-4 mt-6 md:mt-8 flex-wrap justify-center md:justify-start">
             <a
-              href={`${import.meta.env.BASE_URL}cv/CV_DESBANS-Martin.pdf`}
+              href={`${import.meta.env.BASE_URL}cv/CV-Stage-2026.pdf`}
               download
               className="px-5 py-2 rounded-full font-bold text-sm md:text-base shadow transition-all duration-200 flex items-center gap-2"
               style={{ border: "none", background: "transparent", color: "#fff", boxShadow: "0 2px 10px #aaa5" }}

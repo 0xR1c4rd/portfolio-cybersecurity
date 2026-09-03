@@ -88,7 +88,7 @@ export default function Hero() {
       {/* Réseaux */}
       <div className="flex gap-4 mt-5">
         <a
-          href="https://github.com/XXXXX-X-XXXXX"
+          href="https://github.com/0xR1c4rd"
           target="_blank"
           rel="noopener noreferrer"
           className="p-3 rounded-full bg-[#18181b] text-gray-200 shadow-lg hover:bg-gray-700 transition text-sm md:text-base"

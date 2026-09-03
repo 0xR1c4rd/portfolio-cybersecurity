@@ -7,7 +7,7 @@ const prefix = import.meta.env.BASE_URL;
 
 const socials = [
   { name: "LinkedIn", url: "https://www.linkedin.com/in/martin-desbans-704a0b383", icon: `${prefix}icons/linkdin.png` },
-  { name: "GitHub", url: "https://github.com/XXXXX-X-XXXXX", icon: `${prefix}icons/github.png` },
+  { name: "GitHub", url: "https://github.com/0xR1c4rd", icon: `${prefix}icons/github.png` },
   { name: "Email", url: "mailto:martin.desbans@ynov.com", icon: `${prefix}icons/mail.png` },
 ];
 
